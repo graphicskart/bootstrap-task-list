@@ -2,7 +2,7 @@
   "name": "bootstrap-task-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://graphicskart.github.com/bootstrap-task-list",
+  "homepage": "https://graphicskart.github.io/bootstrap-task-list",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
