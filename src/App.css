@@ -1,0 +1,47 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.outer-box {
+  background: #eee;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.fa-check-circle {
+  font-size: 24px;
+  color: #bbb;
+  cursor: pointer;
+}
+
+.fas {
+  color: #2cda9c;
+}
+
+.text {
+  color: #595656;
+}
+
+.tag {
+  padding: 5px 15px;
+  color: #fff;
+  border-radius: 25px;
+}
+
+.image {
+  height: 36px;
+  border-radius: 20px;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.task {
+  border-bottom: 1px solid #d7d0d0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
